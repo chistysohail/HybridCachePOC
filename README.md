@@ -29,7 +29,7 @@ This project is a **.NET 9 console application** that:
 ## 🔧 How to Run This Project
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/your-repo/HybridCachePOC.git
+git clone https://github.com/chistysohail/HybridCachePOC.git
 cd HybridCachePOC
 ```
 
