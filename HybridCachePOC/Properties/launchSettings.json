@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "HybridCachePOC": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
